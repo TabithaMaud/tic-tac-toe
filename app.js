@@ -58,6 +58,8 @@ function resetBoxes() {
 	});
 }
 
+//test
+
 // function checkBoxNotOccupied() {
 //listen to which box is clicked
 // if has class of xMark or oMark
